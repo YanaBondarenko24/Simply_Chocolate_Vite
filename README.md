@@ -54,3 +54,41 @@ To run the project locally:
 
 ```bash
 git clone https://github.com/YanaBondarenko24/Simply_Chocolate_Vite.git
+
+## Preview
+
+![Simply Chocolate Preview](./src/images/preview.jpg)
+
+## Project Goals
+
+This project was created to improve skills in:
+- responsive web design
+- semantic HTML
+- SCSS architecture
+- JavaScript interactions
+- working with Vite
+- clean code structure
+
+## Project Structure
+
+```bash
+src/
+│── images/
+│── js/
+│── partials/
+│── sass/
+│── index.html
+
+---
+
+## 5. Author section
+
+Это почти всегда добавляют.
+
+```md id="0thjza"
+## Author
+
+Created by Yana Bondarenko
+
+GitHub:
+https://github.com/YanaBondarenko24
