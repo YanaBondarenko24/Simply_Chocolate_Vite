@@ -2,6 +2,8 @@
 
 A modern and responsive landing page for a chocolate brand built with Vite, HTML, SCSS, and JavaScript.
 
+---
+
 ## Live Demo
 
 🔗 https://yanabondarenko24.github.io/Simply_Chocolate_Vite/
@@ -48,16 +50,11 @@ The project includes:
 
 ---
 
-## Getting Started
-
-To run the project locally:
-
-```bash
-git clone https://github.com/YanaBondarenko24/Simply_Chocolate_Vite.git
-
 ## Preview
 
 ![Simply Chocolate Preview](./src/images/preview.jpg)
+
+---
 
 ## Project Goals
 
@@ -69,9 +66,11 @@ This project was created to improve skills in:
 - working with Vite
 - clean code structure
 
+---
+
 ## Project Structure
 
-```bash
+```bash id="structure"
 src/
 │── images/
 │── js/
@@ -79,16 +78,10 @@ src/
 │── sass/
 │── index.html
 
----
 
-## 5. Author section
-
-Это почти всегда добавляют.
-
-```md id="0thjza"
-## Author
 
 Created by Yana Bondarenko
 
 GitHub:
 https://github.com/YanaBondarenko24
+
